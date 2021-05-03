@@ -5,7 +5,7 @@
 - [About](#about)
 - [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
+- [To-Do](#to-do)
 
 ## About <a name = "about"></a>
 
@@ -43,13 +43,13 @@ spacebar.
 Enemy aliens waves will come from the top of the screen, moving from right to left, once a enemy wave is cleared, other will pop up with increased speed.
 
 
-## To-Do
+## To-Do<a name = "to-do"></a>
 
 - All-Time High Score needs to be saved, the high score right now resets each
 time a player closes and restart the game.
 
-- Refactoring some functions and methos.
+- Refactoring some functions and methods.
 
 - Maybe some updates like making Aliens to shoot bullets down.
 Adding shields so the ship can hide behind and they can be destroyable from any side. 
-Adding some sfx.
+- Adding some sfx.
